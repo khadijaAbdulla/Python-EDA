@@ -5,12 +5,12 @@ A Python EDA project, using API for data collection (Movies dataset)
 Rapid API - Streaming Availability [https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability/playground/apiendpoint_6bc643c3-6726-4a29-bc7b-f9851732d251](url)
 
 ### Overview
-Analysis for 1130 US movies, 15 columns, from 1920 until 2024
+Analysis for 1130 US movies, 15 columns, from 1920 until 2024.
 The focus on this project is to analyse what does people prefer more in terms of movies they consume, and provide recommendations to production and streaming platfroms accordingly. 
 
 #### Objectives & Key Findings
 ##### 1. What is the number of movies released per year?
-![number of movies released per year](resources/1.png)
+![number of movies released per year](resources/1.png) <br>
 From the mid 2000s we can see a spike in the number movies released per years. This could be the result of movies becoming increasngly more accessible as the number of streaming platforms increased, and people started watching more movies during their free time.
 
 ##### 3. Is there a correlation between the runtime and the rating of a movie?
