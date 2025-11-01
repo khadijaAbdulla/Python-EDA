@@ -4,7 +4,7 @@ A Python EDA project, using API for data collection (Movies dataset)
 ### API Link
 Rapid API - Streaming Availability [https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability/playground/apiendpoint_6bc643c3-6726-4a29-bc7b-f9851732d251](url)
 
-### Overview 
+### Overview
 Analysis for 1130 US movies, 15 columns, from 1920 until 2024
 The focus on this project is to analyse what does people prefer more in terms of movies they consume, and provide recommendations to production and streaming platfroms accordingly. 
 
